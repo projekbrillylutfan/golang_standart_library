@@ -1,1 +1,2 @@
 # golang_standart_library
+alamak
